@@ -16,7 +16,7 @@ Dataset is sampled from ["A Scalable Active Framework for Region Annotation in 3
 ## Environment
 ```
 Tested with:
-PyTorch v1.5.0  
-PyTorch3D v0.2  
-Nvidia RTX2070 with CUDA 10.2
+PyTorch v2.5.1 
+kaolin v0.17.0 v0.2  
+Nvidia RTX4070 with CUDA 12.4
 ```
